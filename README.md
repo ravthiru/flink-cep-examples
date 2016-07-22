@@ -1,7 +1,7 @@
 # flink-cep-examples
 
 
-Using Apache Flink CEP to design small and simple to use cases.
+Using Apache Flink CEP to design small and simple use cases.
 
 1. Using Fink CEP for Event correlation in telecom network. 
 
